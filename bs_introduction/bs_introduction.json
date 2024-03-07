@@ -2,8 +2,3 @@
   "content": "Học tập",
   "children": [
     { "content": "kiến thức mới"}]}
-
-{
-  "content": "Làm việc",
-  "children": [
-    { "content": "việc 1"}, { "content": "việc 2"}, { "content": "việc 3"}]}
