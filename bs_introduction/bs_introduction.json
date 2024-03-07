@@ -1,4 +1,4 @@
 {
-  "content": "Học tập",
+  "content": "root",
   "children": [
-    { "content": "kiến thức mới"}]}
+    { "content": "Học tập"}, { "content": "làm việc", "children": [{ "content": "Công việc 1"}, { "content": "Công việc 2"}]}, { "content": "giải trí"} ]}
