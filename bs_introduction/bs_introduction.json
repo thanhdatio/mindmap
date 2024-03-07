@@ -1,4 +1,34 @@
 {
-  "content": "root",
-  "children": [
-    { "content": "Học tập"}, { "content": "làm việc", "children": [{ "content": "Công việc 1"}, { "content": "Công việc 2"}]}, { "content": "giải trí"} ]}
+  "content": "0. Root", "children": 
+  [
+    { 
+      "content": "1. Học tập"}, 
+    { 
+    "content": "2. Làm việc", 
+    "children": 
+      [
+        {
+          "content": "2.1. Công việc 1"
+        }, 
+        { 
+          "content": "2.2. Công việc 2"
+        }
+      ]
+    }, 
+    { 
+      "content": "3. Giải trí"
+      "children":
+      [
+        {
+          "content": "3.1. Thể thao"
+        },
+        {
+          "content": "3.2. Chơi game"
+        }
+        {
+          "content": "3.3. Nghe nhạc"
+        }
+      ]
+    } 
+  ]
+}
